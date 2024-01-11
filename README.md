@@ -1,4 +1,4 @@
-# Sunbasket API
+# Intelligent Foods API
 
 Intelligent Foods’s API empowers business partners to market and sell Sunbasket items via a comprehensive standards-based connection to Intelligent Foods’s backend catalog and fulfillment systems.
 
